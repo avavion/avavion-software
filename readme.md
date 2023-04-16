@@ -22,6 +22,7 @@
 
 1. [Google Chrome](https://www.google.com/chrome/)
 2. [Mozilla Firefox Developer Edition](https://www.mozilla.org/ru/firefox/developer/)
+3. [WireGuard](https://www.wireguard.com/install/)
 
 ## Document Work
 
@@ -30,8 +31,6 @@
    2. Excel
    3. PowerPoint
 2. [Notion](https://www.notion.so/desktop)
-3. [Typora](https://typora.io/)
-4. [Obsidian](https://obsidian.md/)
 
 ## Communication
 
