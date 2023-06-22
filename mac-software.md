@@ -1,7 +1,6 @@
 # Required
 
 - nvm
-- iTerm2
 - Git
 - HomeBrew
 - NeoVim
@@ -16,3 +15,9 @@
 - Figma
 - Fig
 - Telegram
+- Visual Studio Code Insiders
+
+# Terminal
+- OhMyZsh
+- iTerm2
+- powerlevel10k ([https://www.iterm2material.design](color scheme))
